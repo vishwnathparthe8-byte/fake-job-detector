@@ -23,7 +23,8 @@ Real (0) or Fake/Suspicious (1).
 
 
 ## 🗂 Folder Structure
-```fake-job-detector/
+```
+fake-job-detector/
 │
 ├── data/
 │   └── jobs_raw.csv
@@ -47,7 +48,8 @@ Real (0) or Fake/Suspicious (1).
 ```
 
 ## 🧠 ML Pipeline
-```1️⃣ Load Data
+```
+1️⃣ Load Data
 2️⃣ Preprocess (NLP rules)
 3️⃣ Weak labeling (rule-based)
 4️⃣ TF-IDF Vectorizer
