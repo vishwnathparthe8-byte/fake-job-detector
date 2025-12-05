@@ -38,10 +38,6 @@ fake-job-detector/
 ├── notebook/
 │   └── fake_job_notebook.ipynb
 │
-├── src/
-│   ├── preprocessing.py
-│   ├── train.py
-│   └── utils.py
 │
 ├── requirements.txt
 └── README.md
